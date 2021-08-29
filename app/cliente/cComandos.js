@@ -18,7 +18,5 @@ mp.events.add("playerCommand", (command) => {
     }else if(commandName === "cerrar") {
         util.cEliminarCamara();
         player.setAlpha(255);
-    }else if (commandName === "blah") {
-		mp.gui.chat.push(`You enter command a "${commandName}", and all arguments it a [${args.join(",")}]`);
-	}
+    }
 })
