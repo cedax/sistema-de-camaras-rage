@@ -11,7 +11,7 @@ _Clona el repositorio y mete los archivos dentro de ```server-files``` en la car
 
 ## Versiones 📌
 
-Consultalas [aqui](https://github.com/SedaxMx/sistema-de-camaras-rage/tags).
+Consultalas [aqui](https://github.com/SedaxMx/sistema-de-camaras-rage/releases/tag/Version).
 
 ## Autores ✒️
 
