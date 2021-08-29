@@ -19,7 +19,7 @@ Consultalas [aqui](https://github.com/SedaxMx/sistema-de-camaras-rage/releases/t
 
 ## Licencia 📄
 
-[LICENSE.md](LICENSE.md) para mas detalles.
+[LICENSE.md](https://github.com/SedaxMx/sistema-de-camaras-rage/blob/main/LICENSE) para mas detalles.
 
 ---
 Con ❤️ [SedaxMx](https://github.com/SedaxMx) 😊
